@@ -57,6 +57,8 @@ The CAD models cover all main Glock 19 parts, including:
 - [Trigger with Trigger Bar](./DWG/3D/Trigger_With_Trigger_Bar_3D.dwg)
 - [Glock-19 (Outside Casing)](./DWG/3D/Glock_19.dwg)
 
+---
+
 
 <img width="220" height="207" alt="image" src="https://github.com/user-attachments/assets/fcde4a1c-1e8b-4dc9-b4f8-e81628942238" />
 
