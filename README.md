@@ -59,11 +59,9 @@ The CAD models cover all main Glock 19 parts, including:
 
 ---
 
+This project took around 3 weeks to design and refine.
 
 <img width="220" height="207" alt="image" src="https://github.com/user-attachments/assets/fcde4a1c-1e8b-4dc9-b4f8-e81628942238" />
-
-
-This project took around 3 weeks to design and refine.
 
 If you found it useful or it saved you time, consider supporting:
 [[Buy Me a Coffee link]](https://buymeacoffee.com/denismitica)
